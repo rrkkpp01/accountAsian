@@ -1,4 +1,4 @@
-<script>
+
   /*!
 * AdminLTE v3.2.0 (https://adminlte.io)
 * Copyright 2014-2022 Colorlib <https://colorlib.com>
@@ -2294,4 +2294,4 @@
 }
 ));
 
-</script>
+
